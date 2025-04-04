@@ -1,0 +1,14 @@
+{
+  "Happy": [
+    {"name": "Tesla (TSLA)", "reason": "Tesla matches your upbeat mood!", "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Tesla_logo.png"}
+  ],
+  "Angry": [
+    {"name": "GameStop (GME)", "reason": "Channel your anger with GameStop!", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/GameStop.svg/1280px-GameStop.svg.png"}
+  ],
+  "Bored": [
+    {"name": "Netflix (NFLX)", "reason": "Endless entertainment with Netflix.", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/1280px-Netflix_2015_logo.svg.png"}
+  ],
+  "Anxious": [
+    {"name": "SPDR Gold Trust (GLD)", "reason": "Stability in gold investments.", "image": "https://via.placeholder.com/100?text=GLD"}
+  ]
+}
